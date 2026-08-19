@@ -114,6 +114,16 @@ seller_country_cache.json
 
 该文件属于程序运行过程中生成的缓存文件，默认不建议提交到 Git 仓库。
 
+## 运行结果预览
+
+### 商品采集结果
+
+![Amazon 商品采集结果](images/amazon_csv_preview.png)
+
+### 卖家国家缓存
+
+![卖家国家缓存](images/seller_country_cache_preview.png)
+
 ## 数据文件
 
 以下文件属于运行过程中自动生成的数据，建议保留在本地：

@@ -216,3 +216,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Amazon 爬虫运行数据
+amazon.csv
+seller_country_cache.json
+
+# PyCharm
+.idea/
